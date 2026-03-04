@@ -133,7 +133,6 @@
                                  TextChanged="txtNumberMessage_TextChanged"
                                  PreviewTextInput="NumberOnly_PreviewTextInput"
                                  MaxLength="50"/>
-                        <TextBlock Text="(только цифры)" FontSize="10" FontStyle="Italic" Margin="5,0"/>
                     </StackPanel>
                 </GroupBox>
 

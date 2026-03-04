@@ -19,3 +19,5 @@ C:\Users\User\Desktop\CPP\RSA\obj\Debug\net8.0-windows\RSA.genruntimeconfig.cach
 C:\Users\User\Desktop\CPP\RSA\obj\Debug\net8.0-windows\ref\RSA.dll
 C:\Users\User\Desktop\CPP\RSA\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\User\Desktop\CPP\RSA\obj\Debug\net8.0-windows\RSA_MarkupCompile.lref
+C:\Users\User\Desktop\CPP\RSA\obj\Debug\net8.0-windows\RSA.sourcelink.json
+C:\Users\User\Desktop\CPP\RSA\obj\Debug\net8.0-windows\RSA_Content.g.cs

@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CPP\\RSA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|c:\\users\\user\\desktop\\cpp\\rsa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|c:\\users\\user\\desktop\\cpp\\rsa\\rsa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|solutionrelative:rsa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|c:\\users\\user\\desktop\\cpp\\rsa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|c:\\users\\user\\desktop\\cpp\\rsa\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|solutionrelative:hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|c:\\users\\user\\desktop\\cpp\\rsa\\rsaalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|solutionrelative:rsaalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|c:\\users\\user\\desktop\\cpp\\rsa\\tagtoboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|solutionrelative:tagtoboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|c:\\users\\user\\desktop\\cpp\\rsa\\primeslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|solutionrelative:primeslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|c:\\users\\user\\desktop\\cpp\\rsa\\primes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|solutionrelative:primes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,41 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HashHelper.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CPP\\RSA\\HashHelper.cs",
-              "RelativeDocumentMoniker": "HashHelper.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CPP\\RSA\\HashHelper.cs",
-              "RelativeToolTip": "HashHelper.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAswEAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T19:53:35.544Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TagToBoolConverter.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CPP\\RSA\\TagToBoolConverter.cs",
-              "RelativeDocumentMoniker": "TagToBoolConverter.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CPP\\RSA\\TagToBoolConverter.cs",
-              "RelativeToolTip": "TagToBoolConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T17:46:15.298Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -83,62 +41,20 @@
               "ToolTip": "C:\\Users\\User\\Desktop\\CPP\\RSA\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-28T09:34:29.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RSAAlgorithm.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CPP\\RSA\\RSAAlgorithm.cs",
-              "RelativeDocumentMoniker": "RSAAlgorithm.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CPP\\RSA\\RSAAlgorithm.cs",
-              "RelativeToolTip": "RSAAlgorithm.cs",
-              "ViewState": "AgIAAPwAAAAAAAAAAAAswBgBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T10:02:36.341Z",
+              "WhenOpened": "2026-03-04T17:51:46.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CPP\\RSA\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CPP\\RSA\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAFICAAAAAAAAAAAswG4CAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T09:34:20.912Z",
+              "Title": "RSA",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CPP\\RSA\\RSA.csproj",
+              "RelativeDocumentMoniker": "RSA.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CPP\\RSA\\RSA.csproj",
+              "RelativeToolTip": "RSA.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-04T17:45:17.555Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Primes.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CPP\\RSA\\Primes.cs",
-              "RelativeDocumentMoniker": "Primes.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CPP\\RSA\\Primes.cs",
-              "RelativeToolTip": "Primes.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAcwH8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T11:40:55.756Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PrimesList.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CPP\\RSA\\PrimesList.cs",
-              "RelativeDocumentMoniker": "PrimesList.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CPP\\RSA\\PrimesList.cs",
-              "RelativeToolTip": "PrimesList.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T11:46:23.476Z"
             }
           ]
         }
