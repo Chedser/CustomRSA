@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CPP\\RSA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|c:\\users\\user\\desktop\\cpp\\rsa\\rsa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|solutionrelative:rsa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|c:\\users\\user\\desktop\\cpp\\rsa\\tagtoboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|solutionrelative:tagtoboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|c:\\users\\user\\desktop\\cpp\\rsa\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|solutionrelative:hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|c:\\users\\user\\desktop\\cpp\\rsa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|c:\\users\\user\\desktop\\cpp\\rsa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|c:\\users\\user\\desktop\\cpp\\rsa\\rsaalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|solutionrelative:rsaalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|c:\\users\\user\\desktop\\cpp\\rsa\\rsa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0B6DA4E6-7B4B-4D5B-8774-F8459389F3CC}|RSA.csproj|solutionrelative:rsa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CPP\\RSA\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CPP\\RSA\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAFICAAAAAAAAAAAuwGYCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:57:13.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TagToBoolConverter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CPP\\RSA\\TagToBoolConverter.cs",
+              "RelativeDocumentMoniker": "TagToBoolConverter.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CPP\\RSA\\TagToBoolConverter.cs",
+              "RelativeToolTip": "TagToBoolConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:52:50.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HashHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CPP\\RSA\\HashHelper.cs",
+              "RelativeDocumentMoniker": "HashHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CPP\\RSA\\HashHelper.cs",
+              "RelativeToolTip": "HashHelper.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:49:28.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RSAAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CPP\\RSA\\RSAAlgorithm.cs",
+              "RelativeDocumentMoniker": "RSAAlgorithm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CPP\\RSA\\RSAAlgorithm.cs",
+              "RelativeToolTip": "RSAAlgorithm.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAkwBgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:47:49.39Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -34,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CPP\\RSA\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -46,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "RSA",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CPP\\RSA\\RSA.csproj",
               "RelativeDocumentMoniker": "RSA.csproj",
